@@ -35,7 +35,7 @@ body{
 	
 }
 
-.para1{
+.latest-news-section{
     background-color: white;
     width: fit-content;
     height: 150px;
@@ -43,7 +43,7 @@ body{
     margin: 10px;
     text-align: center;
 }
-.latest-news-section{
+.main-article-section{
     background-color: white;
     width: 30%;
     height: 150px;
