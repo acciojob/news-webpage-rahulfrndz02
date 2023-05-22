@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.main{
+	border: 1px solid black;
+	height:100%;
+	background-color: gray;
+	text-align:center;
+	color:white;
+	
+}
+.heading{
+	border:1px solid black;
+	background-color: black;
+	height:100px;
+	margin-top:10px;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+.para1, .para2, .para3{
+	border-radius: 5px;
+}
+
+
+
+
